@@ -12,7 +12,7 @@ export const Wrapper = styled.main`
   padding: 3rem;
 `
 
-export const Logo = styled.img`
+export const LogoWrapper = styled.div`
   width: 25rem;
   margin-bottom: 2rem;
 `
@@ -26,7 +26,7 @@ export const Description = styled.h2`
   font-weight: 400;
 `
 
-export const Illustration = styled.img`
+export const IllustrationWrapper = styled.div`
   margin-top: 3rem;
   width: min(30rem, 100%);
 `
