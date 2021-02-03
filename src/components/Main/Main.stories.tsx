@@ -1,7 +1,7 @@
 import { Meta, Story } from '@storybook/react/types-6-0'
 
-import Main from '.'
-import { IMain } from './types'
+import { Main } from './Main'
+import type { IMain } from './Main.types'
 
 export default {
   title: 'Main',
