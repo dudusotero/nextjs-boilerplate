@@ -32,3 +32,10 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# service-worker
+public/sw.js
+public/workbox-*.js
+
+# storybook
+storybook-static
