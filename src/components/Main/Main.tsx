@@ -1,9 +1,9 @@
 import type { FC } from 'react'
 
-import type { IMain } from './types'
-import * as S from './styles'
+import type { IMain } from './Main.types'
+import * as S from './Main.styles'
 
-const Main: FC<IMain> = ({
+export const Main: FC<IMain> = ({
   title = 'NextJS Boilerplate',
   description = 'TypeScript, ReactJS, NextJS and Styled Components'
 }) => {
@@ -22,5 +22,3 @@ const Main: FC<IMain> = ({
     </S.Wrapper>
   )
 }
-
-export default Main
