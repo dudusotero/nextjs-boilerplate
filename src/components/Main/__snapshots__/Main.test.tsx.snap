@@ -4,9 +4,8 @@ exports[`<Main /> should match the snapshot 1`] = `
 .c0 {
   background-color: #06092b;
   color: #fff;
-  width: 100%;
-  height: 100%;
   text-align: center;
+  min-height: 100%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
