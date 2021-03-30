@@ -55,11 +55,12 @@ exports[`<Main /> should match the snapshot 1`] = `
       <div
         style="display: block; box-sizing: border-box; padding-top: 21.875%;"
       />
+      <noscript />
       <img
         alt="Image of an atom with a text next to it written \\"React Avançado\\"."
         decoding="async"
         src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-        style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+        style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
       />
     </div>
   </div>
@@ -82,13 +83,14 @@ exports[`<Main /> should match the snapshot 1`] = `
       <div
         style="display: block; box-sizing: border-box; padding-top: 87.35362997658079%;"
       />
+      <noscript />
       <img
         alt="A developer sitting in front of a screen with some codes on it."
         decoding="async"
         src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-        style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+        style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
       />
     </div>
   </div>
 </main>
-`
+`;
